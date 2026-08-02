@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mike Witzel 👋
 
-<!--
-**mikewitzel-tech/mikewitzel-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Engineer with 15+ years of experience designing, deploying, and supporting enterprise IT infrastructure across AWS, Microsoft 365, VMware, networking, security, and hybrid cloud environments.
 
-Here are some ideas to get you started:
+I serve as the primary technical lead for approximately 20 managed business clients, supporting more than 100 end users while designing infrastructure, leading migrations, implementing automation, and managing day-to-day IT operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technologies
+
+- AWS
+- Microsoft 365
+- VMware vSphere / ESXi / vCenter
+- Active Directory
+- Windows Server
+- FortiGate
+- Cisco
+- Ubiquiti UniFi
+- Veeam
+- PowerShell
+- Terraform
+- Infrastructure as Code
+
+## AI-Assisted Engineering
+
+I leverage Amazon Quick, Claude Code, and ChatGPT to accelerate infrastructure automation, PowerShell scripting, Terraform development, HTML updates, documentation, troubleshooting, and operational efficiency while validating all production changes before deployment.
+
+## Current Focus
+
+- Cloud Infrastructure
+- Infrastructure Automation
+- PowerShell
+- Terraform
+- Microsoft 365
+- AWS
+- Network Engineering
+- Disaster Recovery
